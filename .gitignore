@@ -1,0 +1,75 @@
+# Environment Variables
+.env
+
+# Data Directory
+data/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+output/
+*.png
+*.jpg
+*.jpeg
+*.tif
+*.tiff
+
+# Temporary files
+*.tmp
+*.temp
+~*
+
+# Log files
+*.log
+
+# GeoPackage files (large, can be regenerated)
+*.gpkg
+
+# GraphML files (large, can be regenerated)
+*.graphml
+
+# Large JSON files
+*.json
+
+# Raster files (large, can be regenerated)
+*.tif
+*.tiff
