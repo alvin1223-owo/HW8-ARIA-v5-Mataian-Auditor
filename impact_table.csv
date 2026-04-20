@@ -1,0 +1,26 @@
+asset_id,asset_type,location,w4_terrain_risk,w7_centrality_rank,barrier_lake_hit,landslide_hit,debris_flow_hit,notes
+Guangfu_Elementary,W8 Guangfu Overlay,Guangfu_Elementary,-,-,N,Y,N,shelter | priority=1
+Guangfu_Station,W8 Guangfu Overlay,Guangfu_Station,-,-,N,Y,N,critical_infra | priority=2
+Foxu_Debris_Zone,W8 Guangfu Overlay,Foxu_Debris_Zone,-,-,N,Y,N,critical_infra | priority=3
+Guangfu_Township_Office,W8 Guangfu Overlay,Guangfu_Office,-,-,N,Y,N,shelter | priority=1
+HUALIEN_013,W3 Shelter,Hualien Shelter 13,high,-,N,N,N,river_risk=high
+HUALIEN_015,W3 Shelter,Hualien Shelter 15,high,-,N,N,N,river_risk=low
+HUALIEN_006,W3 Shelter,Hualien Shelter 6,high,-,N,N,N,river_risk=high
+HUALIEN_001,W3 Shelter,Hualien Shelter 1,medium,-,N,N,N,river_risk=high
+HUALIEN_008,W3 Shelter,Hualien Shelter 8,medium,-,N,N,N,river_risk=high
+Node_1435523112,W7 Bottleneck,自強國中,medium,5,N,N,N,betweenness=0.1980199212046834
+Node_908124746,W7 Bottleneck,自強國中,medium,4,N,N,N,betweenness=0.25091252893197047
+Node_1065276406,W7 Bottleneck,自強國中,medium,3,N,N,N,betweenness=0.2529353124563259
+Node_1119847832,W7 Bottleneck,花蓮高商,medium,2,N,N,N,betweenness=0.2832624411898825
+HUALIEN_014,W3 Shelter,Hualien Shelter 14,medium,-,N,N,N,river_risk=high
+Node_8544260205,W7 Bottleneck,花蓮高商,medium,1,N,N,N,betweenness=0.2910237298272349
+HUALIEN_003,W3 Shelter,Hualien Shelter 3,low,-,N,N,N,river_risk=low
+HUALIEN_002,W3 Shelter,Hualien Shelter 2,low,-,N,N,N,river_risk=low
+HUALIEN_009,W3 Shelter,Hualien Shelter 9,low,-,N,N,N,river_risk=high
+HUALIEN_007,W3 Shelter,Hualien Shelter 7,low,-,N,N,N,river_risk=low
+HUALIEN_004,W3 Shelter,Hualien Shelter 4,low,-,N,N,N,river_risk=high
+HUALIEN_005,W3 Shelter,Hualien Shelter 5,low,-,N,N,N,river_risk=low
+HUALIEN_011,W3 Shelter,Hualien Shelter 11,low,-,N,N,N,river_risk=low
+HUALIEN_010,W3 Shelter,Hualien Shelter 10,low,-,N,N,N,river_risk=low
+HUALIEN_012,W3 Shelter,Hualien Shelter 12,low,-,N,N,N,river_risk=low
+Mataian_Hwy9_Bridge,W8 Guangfu Overlay,Mataian_Bridge,-,-,N,N,N,bridge | priority=1

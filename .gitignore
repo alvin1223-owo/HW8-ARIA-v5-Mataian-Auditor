@@ -45,13 +45,11 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Output files
+# Output files (allow specific important ones)
 output/
 *.png
 *.jpg
 *.jpeg
-*.tif
-*.tiff
 
 # Temporary files
 *.tmp
@@ -60,6 +58,11 @@ output/
 
 # Log files
 *.log
+
+# Allow specific important files
+!impact_table.csv
+!mataian_detections.gpkg
+!output/*.png
 
 # GeoPackage files (large, can be regenerated)
 *.gpkg
